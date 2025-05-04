@@ -1,0 +1,15 @@
+ID,Country,Age,Gender,Tobacco Use,Alcohol Consumption,HPV Infection,Betel Quid Use,Chronic Sun Exposure,Poor Oral Hygiene,Diet (Fruits & Vegetables Intake),Family History of Cancer,Compromised Immune System,Oral Lesions,Unexplained Bleeding,Difficulty Swallowing,White or Red Patches in Mouth,Tumor Size (cm),Cancer Stage,Treatment Type,"Survival Rate (5-Year, %)",Cost of Treatment (USD),Economic Burden (Lost Workdays per Year),Early Diagnosis,Oral Cancer (Diagnosis)
+1,Italy,36,Female,Yes,Yes,Yes,No,No,Yes,Low,No,No,No,No,No,No,0,0,No Treatment,100,0,0,No,No
+2,Japan,64,Male,Yes,Yes,Yes,No,Yes,Yes,High,No,No,No,Yes,No,No,1.782186,1,No Treatment,83.340103,77772.5,177,No,Yes
+3,UK,37,Female,No,Yes,No,No,Yes,Yes,Moderate,No,No,No,No,No,Yes,3.523895,2,Surgery,63.222871,101164.5,130,Yes,Yes
+4,Sri Lanka,55,Male,Yes,Yes,No,Yes,No,Yes,Moderate,No,No,Yes,No,No,No,0,0,No Treatment,100,0,0,Yes,No
+5,South Africa,68,Male,No,No,No,No,No,Yes,High,No,No,No,No,No,No,2.834789,3,No Treatment,44.293199,45354.75,52,No,Yes
+6,Taiwan,70,Male,Yes,No,Yes,Yes,No,Yes,Moderate,Yes,No,Yes,Yes,No,No,1.692675,2,Surgery,67.407275,96504,91,Yes,Yes
+7,USA,41,Female,Yes,Yes,No,No,No,No,Moderate,No,No,No,No,Yes,Yes,5.794843,1,No Treatment,80.798132,86131.25,105,Yes,Yes
+8,Italy,53,Male,Yes,Yes,Yes,No,No,Yes,Moderate,No,No,Yes,No,No,No,0,0,No Treatment,100,0,0,Yes,No
+9,Sri Lanka,62,Female,Yes,No,Yes,Yes,No,Yes,Low,No,No,No,No,Yes,No,5.999476,3,Surgery,41.459935,42630,136,No,Yes
+10,Germany,50,Male,Yes,No,No,No,No,Yes,High,No,No,No,No,Yes,No,5.282246,3,Radiation,33.753806,75150.25,82,No,Yes
+11,Sri Lanka,65,Male,No,Yes,No,Yes,No,No,Moderate,Yes,No,Yes,No,No,Yes,4.724627,3,Targeted Therapy,42.8149,63721,84,Yes,Yes
+12,Sri Lanka,34,Male,Yes,No,No,No,No,Yes,Low,No,No,Yes,Yes,No,No,0,0,No Treatment,100,0,0,Yes,No
+13,France,56,Male,Yes,Yes,Yes,Yes,No,Yes,Moderate,No,No,No,No,Yes,Yes,0,0,No Treatment,100,0,0,Yes,No
+14,Australia,59,Female,Yes,Yes,No,No,Yes,Yes,Low,No,No,Yes,No,No,Yes,0,0,No Treatment,100,0,0,Yes,No
